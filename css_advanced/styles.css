@@ -1,3 +1,62 @@
+
+.header-logo {
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    padding-left: 100px;
+    padding: 30px;
+ }
+
+.header-links ul {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-left: 1000px;
+    margin-bottom: 150px;
+    margin-top: -60px;
+}
+.header-links ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.get-schooled h1 {
+    display: inline-flex;
+    text-align: center;
+    color: white;
+    font-size: 8.5rem;
+    margin-top: 60px;
+    margin-bottom: 5px;
+    padding-left: 380px;
+ }
+
+.getschooled-list {
+    display: inline-flex;
+    padding-left: 625px;
+    gap: 65px;
+    text-align: center;
+    color: white;
+ }
+.button1 {
+    display: flex;
+    background-color: #c271ff;
+    color: white;
+    border-radius: 2em;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 170px;
+    margin-left: 700px;
+    margin-top: 40px;
+}
+.learn-from-pros {
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+
 .Object-image {
     background-image: url("../images/Object.png");
     background-size:cover;
@@ -7,9 +66,54 @@
     width: 1440;
  }
 
- .icons {
-    display: flex;
-    gap: 40px;
+.icons {
+    display: inline-flex;
+    gap: 150px;
     margin-top: 20px;
+    margin-bottom: 60px;
+    padding-left: 220px;
+    padding-right: 220px;
+    color: white;
  }
- 
+.Philip {
+    text-align: center;
+ }
+
+.Nannie {
+    text-align: center;
+}
+
+.Bruce {
+    text-align:center;
+}
+
+.Bruce img {
+    border-radius: 8em;
+
+}
+
+.Henry {
+    text-align: center;
+}
+
+.purple-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 100px;
+    padding-bottom:100px;
+    background-color: #c271ff;
+    color: white;
+    text-align:left;
+    width: auto
+ }
+
+ .testimonial-text h3 {
+    text-indent: 40px;
+ }
+
+ .testimonial-text p {
+    text-indent: 40px;
+ }
