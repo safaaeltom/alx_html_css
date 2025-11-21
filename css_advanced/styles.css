@@ -1,0 +1,15 @@
+.Object-image {
+    background-image: url("../images/Object.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1093px;
+    width: 1440;
+ }
+
+ .icons {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+ }
+ 
