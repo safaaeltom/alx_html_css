@@ -26,13 +26,13 @@
     color: white;
     font-size: 8.5rem;
     margin-top: 60px;
-    margin-bottom: 5px;
+    margin-bottom: -10px;
     padding-left: 380px;
  }
 
 .getschooled-list {
     display: inline-flex;
-    padding-left: 625px;
+    padding-left: 600px;
     gap: 65px;
     text-align: center;
     color: white;
@@ -46,14 +46,14 @@
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-bottom: 170px;
-    margin-left: 700px;
-    margin-top: 40px;
+    margin-bottom: 220px;
+    margin-left: 660px;
+    margin-top: 60px;
 }
 .learn-from-pros {
     text-align: center;
     color: white;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 
@@ -62,7 +62,7 @@
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 1093px;
+    height: 1155px;
     width: 1440;
  }
 
@@ -77,14 +77,17 @@
  }
 .Philip {
     text-align: center;
+    line-height: 8px;
  }
 
 .Nannie {
     text-align: center;
+    line-height: 8px;
 }
 
 .Bruce {
     text-align:center;
+    line-height: 8px;
 }
 
 .Bruce img {
@@ -94,6 +97,7 @@
 
 .Henry {
     text-align: center;
+    line-height: 8px;
 }
 
 .purple-background {
@@ -117,3 +121,53 @@
  .testimonial-text p {
     text-indent: 40px;
  }
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("../fonts/SourceSansPro-Light.otf");
+    font-weight: light;
+}
+ .most-popular {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: "source sans pro";
+    font-weight: light;
+ }
+
+.tutorial-videos {
+    display: inline-flex;
+    margin-left: 170px;
+    margin-right: 170px;
+    gap: 30px;
+}
+
+
+.video h3, p {
+    text-indent: 15px;
+}
+
+.Philip-photo {
+    display: inline-flex;
+    color: #c271ff;
+}
+.Philip-photo img {
+    width: 50px;
+    height: 50px;
+    padding-left: 15px;
+}
+.Philip-photo h4 {
+    text-indent: 20px;
+}
+
+.rating {
+    display:inline-flex;
+    gap: 75px;
+}
+
+.stars {
+    text-indent: 10px;
+}
+.min {
+    margin: -1px;
+}
+
