@@ -1,3 +1,11 @@
+.Object-image {
+    background-image: url("../images/Object.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1155px;
+    width: 1440;
+ }
 
 .header-logo {
     display: flex;
@@ -46,25 +54,21 @@
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-bottom: 220px;
-    margin-left: 660px;
-    margin-top: 60px;
+    margin-bottom: 230px;
+    margin-left: 655px;
+    margin-top: 40px;
 }
+
 .learn-from-pros {
     text-align: center;
     color: white;
     margin-bottom: 70px;
 }
 
-
-.Object-image {
-    background-image: url("../images/Object.png");
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 1155px;
-    width: 1440;
- }
+.highlight {
+    color: #C271FF;
+    font-weight: bold;
+}
 
 .icons {
     display: inline-flex;
@@ -132,16 +136,15 @@
     margin-bottom: 60px;
     font-family: "source sans pro";
     font-weight: light;
- }
-
+}
+/* THIS IS THE VIDEOS PART */
 .tutorial-videos {
     display: inline-flex;
     margin-left: 170px;
     margin-right: 170px;
+    padding-bottom: 30px;
     gap: 30px;
 }
-
-
 .video h3, p {
     text-indent: 15px;
 }
@@ -170,4 +173,119 @@
 .min {
     margin: -1px;
 }
+/* THIS IS THE MEMBERSHIP PART */
+.background-part {
+    background-color: #071629;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+.membership-section {
+    display:inline-flex;
+    text-align: center;
+    color: white;
+    margin-left: 650px;
+    margin-bottom: 70px;
+    font-family: "Source Sans Pro";
+}
 
+.button2 {
+    display: flex;
+    background-color: #c271ff;
+    color: white;
+    border-radius: 2em;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 650px;
+    margin-right: 630px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.smiles-section {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 250px;   
+}
+.smile {
+    width: 200px;
+}
+
+.smile img {
+    width: 70px;
+    margin-left: 70px;
+}
+.smile h3 {
+    text-align: center;
+}
+/* FREQUENTLY ASKED QUESTIONS */
+
+.faq {
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px 20px
+}
+
+.faq h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.faq-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.box-container {
+    flex: 1
+}
+
+.faq-box {
+    margin-bottom: 30px;
+}
+
+.faq-box h3 {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.faq-box p {
+  color: #555;
+  line-height: 1.5rem;
+}
+
+/* footer */
+
+.footer-background {
+    background-color: #071629;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 250px;
+    color: white;
+ }
+
+ .footer-logo {
+    margin-left: 150px;
+    padding-top: 120px;
+    height: 30px;
+ }
+ .social-media {
+    display: flex;
+    margin-left: 1200px;
+    width: 130;
+    gap: 20px;
+}
+.social-media a {
+}
+ .copyrights {
+    text-align: center;
+    font-size: 15px;
+    opacity: 0.5;
+    padding-top: 20px;
+ }
