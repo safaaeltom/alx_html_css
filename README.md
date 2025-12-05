@@ -1,0 +1,3 @@
+This repository contains a web page built from scratch using HTML and CSS, following a design created in Figma. The project demonstrates best practices in responsive design, accessibility, and semantic HTML structure.
+
+The headphones folder contains a specific subproject, and the rest of the repository includes the main webpage code, styles, and assets. This project showcases the ability to translate designs into fully functional, visually accurate web pages without using any libraries or frameworks.
