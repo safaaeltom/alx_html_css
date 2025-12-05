@@ -1,7 +1,7 @@
 # Project Title: headphones
 Project Overview
 
-This project involves creating a fully functional and visually accurate web page from scratch using HTML and CSS, without relying on any external libraries or frameworks. The goal is to implement a web page that mirrors the designer file provided in Figma while applying best practices in accessibility, responsiveness, and clean code.
+This project involves creating a fully functional and visually accurate web page from scratch using HTML and CSS, without relying on any external libraries or frameworks. The goal is to implement a web page that mirrors the Figma design file while adhering to best practices in accessibility, responsiveness, and clean code.
 
 This task allows full creative freedom in implementation, challenging developers to showcase their understanding of web fundamentals and attention to detail.
 
