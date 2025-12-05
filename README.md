@@ -1,1 +1,0 @@
-This readme was for the css advanced project
