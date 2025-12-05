@@ -1,14 +1,20 @@
-# Project Title: alx_html_css
-This project is a styled webpage inspired by the “Getting Schooled” design on Figma. It demonstrates HTML and CSS skills, including:
+# Project Title: headphones
+Project Overview
 
-Layout using Flexbox
+This project involves creating a fully functional and visually accurate web page from scratch using HTML and CSS, without relying on any external libraries or frameworks. The goal is to implement a web page that mirrors the designer file provided in Figma while applying best practices in accessibility, responsiveness, and clean code.
 
-Styling with colors, backgrounds, fonts, and borders
+This task allows full creative freedom in implementation, challenging developers to showcase their understanding of web fundamentals and attention to detail.
 
-Adding logos and images
+Features Implemented
 
-Creating a responsive and visually appealing UI
+Pixel-Perfect Design: The webpage matches the layout, typography, and color palette from the Figma design.
 
-The goal of this project is to replicate the Figma design as closely as possible while learning best practices in front-end development.
+Responsive Layout: Fully responsive design that adapts seamlessly to different screen sizes (desktop, tablet, mobile).
+
+Accessibility: Semantic HTML structure, meaningful alt texts, and focusable interactive elements for better accessibility.
+
+Custom CSS Styling: Utilized pure CSS, including Flexbox and Grid, to achieve the desired layout and styling.
+
+Cross-Browser Compatibility: Tested across multiple browsers for consistent rendering.
 
 Author: Safaa
